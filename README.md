@@ -19,7 +19,7 @@
 
 - 👨‍💻 Full-Stack Developer based in New Delhi, India.
 - 📫 How to reach me: [manish1182003@gmail.com](manish1182003@gmail.com)
-- 🔗 Rocking a cool **50+ connections** on LinkedIn, let's connect!
+- 🔗 Rocking a cool **500+ connections** on LinkedIn, let's connect!
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
 - 🌱 I'm currently learning: **📚 Exploring MERN**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
